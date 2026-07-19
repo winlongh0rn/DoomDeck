@@ -2,7 +2,7 @@
 
 A project that allows UZDoom to display on and receive controls from an Elgato Stream Deck.
 
-*Definitely not made with the assistance of ChatGPT because I have basically no knowledge of TypeScript or C++ (why would I **EVER** do that?)*
+*Definitely not made with the assistance of ChatGPT because I have basically no knowledge of TypeScript or anything C based (why would I **EVER** do that?)*
 
 <p align="center">
   <img src="screenshots/doomdeck.jpeg" width="500" alt="DoomDeck running Doom">
