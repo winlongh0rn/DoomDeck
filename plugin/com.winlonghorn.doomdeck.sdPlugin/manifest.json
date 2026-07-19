@@ -1,0 +1,47 @@
+{
+	"Name": "DoomDeck",
+	"Version": "0.1.0.0",
+	"Author": "Winlonghorn",
+	"Actions": [
+		{
+			"Name": "Counter",
+			"UUID": "com.winlonghorn.doomdeck.doom",
+			"Icon": "imgs/actions/counter/icon",
+			"Tooltip": "Displays doom.",
+			"PropertyInspectorPath": "ui/increment-counter.html",
+			"Controllers": [
+				"Keypad"
+			],
+			"States": [
+				{
+					"Image": "imgs/actions/counter/key",
+					"TitleAlignment": "middle"
+				}
+			]
+		}
+	],
+	"Category": "DoomDeck",
+	"CategoryIcon": "imgs/plugin/category-icon",
+	"CodePath": "bin/plugin.js",
+	"Description": "Doom for the streamdeck",
+	"Icon": "imgs/plugin/marketplace",
+	"SDKVersion": 3,
+	"Software": {
+		"MinimumVersion": "7.1"
+	},
+	"OS": [
+		{
+			"Platform": "mac",
+			"MinimumVersion": "12"
+		},
+		{
+			"Platform": "windows",
+			"MinimumVersion": "10"
+		}
+	],
+	"Nodejs": {
+		"Version": "24",
+		"Debug": "enabled"
+	},
+	"UUID": "com.winlonghorn.doomdeck"
+}
