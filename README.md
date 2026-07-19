@@ -15,6 +15,7 @@ A project that allows UZDoom to display on and receive controls from an Elgato S
 - Windows
 - Elgato Stream Deck software
 - UZDoom
+- Stream Deck (obviously...)
 
 ## Setup
 
